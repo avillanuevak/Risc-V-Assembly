@@ -1,0 +1,2 @@
+This MIPS assembly program calculates the sum of consecutive integers stored in memory locations starting from the address pointed to by xx and ending at the address pointed to by oo. 
+It iterates through the memory locations, accumulating the sum, and stores the result at the memory address pointed to by oo.
